@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.log
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.log
+*.bak
+*.bak[0-9]*
+DATA.txt
